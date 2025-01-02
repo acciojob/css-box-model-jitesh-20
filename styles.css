@@ -1,5 +1,5 @@
 .box {
-      width: 400px;
+      width: 300px;
       background-color: lightblue;
       border: 15px solid blue;
       padding: 50px;
@@ -7,9 +7,4 @@
       color: black;
       font-family: Arial, sans-serif;
       box-sizing: border-box;
-}
-
-.demo{
-	border:1px dotted black;
-	width:300px;
 }
